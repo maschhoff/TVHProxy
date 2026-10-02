@@ -82,7 +82,7 @@ environment variables to it:
 version: "3"
 services:
     tvhproxy:
-        image: prengineer/tvhproxy:latest
+        image: knex666/tvhproxy:latest
         container_name: tvhproxy
         restart: unless-stopped
         ports:
