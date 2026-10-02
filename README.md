@@ -1,7 +1,4 @@
-
-----
-
-# tvhProxy
+# TVHProxy
 
 tvhProxy exposes a minimal HDHomeRun-compatible HTTP interface that proxies channels and EPG
 from a running TVHeadend instance so clients (like HDHomeRun apps or Plex DVR) can discover
