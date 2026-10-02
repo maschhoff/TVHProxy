@@ -59,7 +59,7 @@ the variable is not provided.
     listen on container port `8095` and map host port `8080` to it:
 
 ```bash
-docker run -e TVH_PROXY_PORT=8095 -p 8080:8095 your-registry/tvhproxy:latest
+docker run -e TVH_PROXY_PORT=8095 -p 8080:8095 knex666/tvhproxy:latest
 ```
 
 Note: the `EXPOSE` line in the `Dockerfile` is informational only; the process inside
